@@ -26,7 +26,7 @@
   --bs-white: #fff;
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
-  --bs-primary: #deb297;
+  --bs-primary: #000080;
   --bs-secondary: #58677c;
   --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -3040,8 +3040,8 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #deb297;
-  border-color: #deb297;
+  background-color: #000080;
+  border-color: #000080;
 }
 
 .btn-primary:hover {
@@ -3069,8 +3069,8 @@ textarea.form-control-lg {
 
 .btn-primary:disabled, .btn-primary.disabled {
   color: #fff;
-  background-color: #deb297;
-  border-color: #deb297;
+  background-color: #000080;
+  border-color: #000080;
 }
 
 .btn-secondary {
@@ -3109,14 +3109,14 @@ textarea.form-control-lg {
 }
 
 .btn-outline-primary {
-  color: #deb297;
-  border-color: #deb297;
+  color: #000080;
+  border-color: #000080;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #deb297;
-  border-color: #deb297;
+  background-color: #000080;
+  border-color: #000080;
 }
 
 .btn-check:focus + .btn-outline-primary, .btn-outline-primary:focus {
@@ -3125,8 +3125,8 @@ textarea.form-control-lg {
 
 .btn-check:checked + .btn-outline-primary, .btn-check:active + .btn-outline-primary, .btn-outline-primary:active, .btn-outline-primary.active, .btn-outline-primary.dropdown-toggle.show {
   color: #fff;
-  background-color: #deb297;
-  border-color: #deb297;
+  background-color: #000080;
+  border-color: #000080;
 }
 
 .btn-check:checked + .btn-outline-primary:focus, .btn-check:active + .btn-outline-primary:focus, .btn-outline-primary:active:focus, .btn-outline-primary.active:focus, .btn-outline-primary.dropdown-toggle.show:focus {
@@ -3134,7 +3134,7 @@ textarea.form-control-lg {
 }
 
 .btn-outline-primary:disabled, .btn-outline-primary.disabled {
-  color: #deb297;
+  color: #000080;
   background-color: transparent;
 }
 
@@ -6107,7 +6107,7 @@ textarea.form-control-lg {
 }
 
 .link-primary {
-  color: #deb297;
+  color: #000080;
 }
 
 .link-primary:hover, .link-primary:focus {
@@ -6489,7 +6489,7 @@ textarea.form-control-lg {
 }
 
 .border-primary {
-  border-color: #deb297 !important;
+  border-color: #000080 !important;
 }
 
 .border-secondary {
@@ -7337,7 +7337,7 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #deb297 !important;
+  color: #000080 !important;
 }
 
 .text-secondary {
@@ -7369,7 +7369,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #deb297 !important;
+  background-color: #000080 !important;
 }
 
 .bg-secondary {
@@ -10242,12 +10242,12 @@ body {
   background: #F7F8FA;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #deb297;
+  color: #000080;
   overflow-x: hidden;
 }
 
 a {
-  color: #deb297;
+  color: #000080;
 }
 
 a:hover {
@@ -10267,7 +10267,7 @@ a.text-link:hover {
 }
 
 .theme-bg-primary {
-  background-color: #deb297;
+  background-color: #000080;
 }
 
 .theme-bg-primary-darken {
@@ -10291,7 +10291,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .theme-progress-bar-dark {
-  background-color: #deb297;
+  background-color: #000080;
 }
 
 .resume-wrapper {
@@ -10304,7 +10304,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-header {
-  background: #deb297;
+  background: #000080;
   color: rgba(255, 255, 255, 0.9);
   height: 220px;
 }
@@ -10342,13 +10342,13 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   height: 24px;
   border-radius: 0.125rem;
   background: white;
-  color: #deb297;
+  color: #000080;
 }
 
 .resume-section-title {
   font-size: 1.25rem;
   position: relative;
-  color: #deb297;
+  color: #000080;
 }
 
 .resume-section-title:after {
@@ -10410,7 +10410,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 
 .resume-position-title {
   font-size: 1.125rem;
-  color: #deb297;
+  color: #000080;
 }
 
 .resume-timeline-item-desc-heading {
@@ -10419,16 +10419,16 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 
 .resume-skills-cat {
   font-size: 1rem;
-  color: #deb297;
+  color: #000080;
 }
 
 .resume-skill-name {
   font-size: 0.8125rem;
-  color: #deb297;
+  color: #000080;
 }
 
 .resume-degree {
-  color: #deb297;
+  color: #000080;
 }
 
 .resume-degree-org {
@@ -10448,7 +10448,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 
 .resume-award-name {
   font-weight: bold;
-  color: #deb297;
+  color: #000080;
 }
 
 .resume-award-desc {
@@ -10456,7 +10456,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-lang-name {
-  color: #deb297;
+  color: #000080;
 }
 
 .footer .fa-heart {
